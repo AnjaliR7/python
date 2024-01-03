@@ -1,0 +1,3 @@
+with open("openfile.txt","r") as f:
+	f.write("hello python")
+f.close()
